@@ -36,10 +36,6 @@ Project: Smart Parking Platform
 Version: 1.0  
 Date: 09.10.2026
 
-## 3.1 Introduction
-### *3.1.1 Purpose*
-### *3.1.2 Scope* 
-
 ## 3.2 Overall Description  
 - Users: 
 - System Environment: Web-based / mobile application
@@ -61,8 +57,7 @@ Date: 09.10.2026
 - FR3: The system shall allow the driver reserve a parking spot 
 - FR4: The system shall allow the driver to pay digitally 
 - FR5: The system shall allow the driver to see the administrative dashboard for parking operators 
-- FR6: The system shall allow the driver to receive notifications and alerts
-- FR7: The system shall allow the driver 
+- FR6: The system shall allow the driver to receive notifications and alerts 
 
 ## 3.4 Non-Functional Requirements
 - NFR1: The system shall load search results within 2-3 seconds of a query 

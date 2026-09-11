@@ -13,13 +13,24 @@ In the following table, I organized the current U.S. competitors, and based off 
 | JustPark | direct | yes | yes | yes | small % service fee per booking | 4.8/5 | 3.5/5 | 29,000 | 22,000 | trusted by 10 mil drivers| 
 | Park4Me | indirect| yes | yes | yes | no publishedfee | 2.2/5 | n/a | 98 | n/a | very limited - under 2000 downloads reported, app appears largely inactive/discontinued | 
 
-### *1.1.1 Market Gap Analysis*
-- True advanced reservation is rarer than it looks. Passport and Reef Technology, 2 of 8 competitors, are pay-for-session, not book-ahead. 
 
 # 2. Vision 
+## 2.1 Business Requirements 
+### *2.1.1 Background*
+This project was acquired by us, $oftware Corp, a prominent software development studio because we couldn't help but notice how drivers often spend a significant amount of time searching for available parking, which in turn, leads to congestion, frustration, and overall, lost productivity. 
 
+### *2.1.2 Business Oportunity*
+Utilization is known as the percentage of a garage's total parking capacity that is actively occupied or reserved during a given time period. Across the competitive landscape, no major company currently solves the problem of underutilization for operators, most of them focus mostly on driver-facing search experience. This represents an opportunity to serve both sides of the market. We can help the drivers find and reserve parking in real time, while also giving operators the tools needed to fill capacity that they are currently losing revenue on. 
 
+### *2.1.3 Business Objectve*
+The platform will provide drivers with real-time way to locate, reserve, and pay for parking, and will provide operators with tools to monitor occupancy, manage pricing, and improve overall utilization of their facilities. 
 
+## 2.2 Vision of the Solution
+### *2.2.1 Vision Statement*
+For drivers who waste precious time searching for parking, __ is a mobile and web platform that allows them to locate, reserve, and pay for garage parking in real time. Unlike Passport Parking and Reef Technology, which require drivers to pay for a session after the fact, __ guarantees a reserved spot before arrival. Unlike SpotHero and ParkWhiz, which are built around rigid daily bookings, __ stands out by offering flexible micro-reservations suited to hourly, and shift-based parking needs. 
+
+### *2.2.2 Scope*
+This release will include driver-side search, reservation, and payment functionality, along with a real-time occupancy map, On the operator side, it will include tools to update availability and pricing in real time. 
 # 3. Software Requirements Specification (SRS)
 Project: Smart Parking Platform  
 Version: 1.0  

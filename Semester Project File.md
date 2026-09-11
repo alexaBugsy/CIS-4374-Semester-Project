@@ -37,7 +37,7 @@ Version: 1.0
 Date: 09.10.2026
 
 ## 3.2 Overall Description  
-- Users: 
+- Users: Driver and Garage Operator
 - System Environment: Web-based / mobile application
 - Constraints: 
   - Budget: Unlimited 

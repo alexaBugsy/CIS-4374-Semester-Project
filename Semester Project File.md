@@ -20,7 +20,7 @@ In the following table, I organized the current U.S. competitors, and based off 
 This project was acquired by us, $oftware Corp, a prominent software development studio because we couldn't help but notice how drivers often spend a significant amount of time searching for available parking, which in turn, leads to congestion, frustration, and overall, lost productivity. 
 
 ### *2.1.2 Business Oportunity*
-Utilization is known as the percentage of a garage's total parking capacity that is actively occupied or reserved during a given time period. Across the competitive landscape, no major company currently solves the problem of underutilization for operators, most of them focus mostly on driver-facing search experience. This represents an opportunity to serve both sides of the market. We can help the drivers find and reserve parking in real time, while also giving operators the tools needed to fill capacity that they are currently losing revenue on. 
+Utilization is known as the percentage of a garage's total parking capacity that is actively occupied or reserved during a given time period. Across the competitive landscape, no major company currently solves the problem of underutilization for operators, most of them focus mostly on driver-facing search experience. This represents an opportunity to serve both sides of the market. We can help the drivers find and reserve parking in real time, while also giving operators the tools needed to fill capacity that they are currently losing revenue on. *(NOTE GREEN: make sure to expand and mention the explicit services will be providing -> real-time parking space availability, interactive map displaying available parking spots, [occupancy reporting and analytics], dynamic pricing, dynamic inventory management, [flexible booking and pricing], [frictionless access and navigation])*
 
 ### *2.1.3 Business Objectve*
 The platform will provide drivers with real-time way to locate, reserve, and pay for parking, and will provide operators with tools to monitor occupancy, manage pricing, and improve overall utilization of their facilities. 
@@ -56,8 +56,11 @@ Date: 09.10.2026
 - FR2: The system shall allow the driver to see an interactive map displaying available parking locations 
 - FR3: The system shall allow the driver reserve a parking spot 
 - FR4: The system shall allow the driver to pay digitally 
-- FR5: The system shall allow the driver to see the administrative dashboard for parking operators 
-- FR6: The system shall allow the driver to receive notifications and alerts 
+- FR5: The system shall allow the parking operator to see the administrative dashboard
+- FR6: The system shall allow the parking operator and driver access to reservation history and receipts *(DOUBLE CHECK IF FOR BOTH OR JUST PARKING OPERATOR)*
+- FR7: The system shall allow the driver to receive notifications and alerts
+- FR8: The system shall allow the parking operator to access occupancy reporting and analytics *(DOUBLE CHECK IF FOR BOTH OR JUST PARKING OPERATOR)*
+- FR9: The system shall allow integration with external mapping/navigation services *(SEE IF WORD DIFFERENT / OR IN THIS SECTION SINCE NOT SURE)*
 
 ## 3.4 Non-Functional Requirements
 - NFR1: The system shall load search results within 2-3 seconds of a query 

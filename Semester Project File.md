@@ -11,7 +11,7 @@ In the following table, I organized the current U.S. competitors, and based off 
 | Reef Technology Parking App | indirect | yes | no (session based not pre-booked) | yes | standard payment, no published fee | 2.1/5 | 2.3/5 | 2,800 | 9,100 | not publicly disclosed | 
 | Parksy | indirect | yes | yes | yes | free for hosts; per-booking fee for drivers | 5 | n/a | 3 | n/a | not publicly disclosed |
 | JustPark | direct | yes | yes | yes | small % service fee per booking | 4.8/5 | 3.5/5 | 29,000 | 22,000 | trusted by 10 mil drivers| 
-| Park4Me | indirect| yes | yes | yes | no publishedfee | 2.2/5 | n/a | 98 | n/a | very limited - under 2000 downloads reported, app appears largely inactive/discontinued | 
+| Park4Me | indirect| yes | yes | yes | no published fee | 2.2/5 | n/a | 98 | n/a | very limited - under 2000 downloads reported, app appears largely inactive/discontinued | 
 
 
 # 2. Vision 
@@ -22,8 +22,8 @@ This project was acquired by us, $oftware Corp, a prominent software development
 ### *2.1.2 Business Opportunity / Solution !!*
 Utilization is known as the percentage of a garage's total parking capacity that is actively occupied or reserved during a given time period. Across the competitive landscape, no major company currently solves the problem of underutilization for operators, most of them focus mostly on driver-facing search experience. This represents an opportunity to serve both sides of the market. We can help the drivers find and reserve parking in real time, while also giving operators the tools needed to fill capacity that they are currently losing revenue on. *(NOTE GREEN: make sure to expand and mention the explicit services will be providing -> real-time parking space availability, interactive map displaying available parking spots, [occupancy reporting and analytics], dynamic pricing, dynamic inventory management, [flexible booking and pricing], [frictionless access and navigation] --> also mention that will be doing tiers)* 
 
-### *2.1.3 Business Objectve*
-The platform will provide drivers with real-time way to locate, reserve, and pay for parking, and will provide operators with tools to monitor occupancy, manage pricing, and improve overall utilization of their facilities. 
+### *2.1.3 Business Objective*
+The platform will provide drivers with a real-time way to locate, reserve, and pay for parking, and will provide operators with tools to monitor occupancy, manage pricing, and improve overall utilization of their facilities. 
 
 ## 2.2 Vision of the Solution
 ### *2.2.1 Vision Statement*

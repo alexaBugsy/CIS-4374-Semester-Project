@@ -243,8 +243,8 @@ Steps:
 Postcondition: User is returned to the login screen; session is closed
 
  # 4. Smart Parking Platform Work Breakdown Structure 
-1. Web Frontend
-   1.1 Core Screens 
+- Web Frontend
+  - Core Screens 
 3. Mobile Frontend
 4. Backend
 5. Deployment  

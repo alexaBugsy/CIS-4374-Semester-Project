@@ -1,4 +1,4 @@
- # 1. Research 
+# 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  
 
@@ -240,4 +240,11 @@ Precondition: User is logged in
 Steps:  
 1. User selects “Log Out” from account settings  
 2. System ends the active session 
-Postcondition: User is returned to the login screen; session is closed 
+Postcondition: User is returned to the login screen; session is closed
+
+ # 4. Smart Parking Platform Work Breakdown Structure 
+1. Web Frontend
+1.1 Core Screens 
+3. Mobile Frontend
+4. Backend
+5. Deployment  

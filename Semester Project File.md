@@ -244,7 +244,49 @@ Postcondition: User is returned to the login screen; session is closed
 
  # 4. Smart Parking Platform Work Breakdown Structure 
 - Web Frontend
-  - Core Screens 
-3. Mobile Frontend
-4. Backend
-5. Deployment  
+  - Core Screens
+    - Map/Spot Selection 
+    - User Account
+    - Booking confirmation
+    - Payment Screen
+  - UI Foundation
+    - User Flow Diagram
+    - Wireframes/UI Mockups 
+  - Testing
+    - Unit Testing
+    - Integration Testing
+    - USAT  
+- Mobile Frontend
+  - Core Screens
+    - Map/Spot Selection Screen (iOS/Android)
+    - User Account Screen (iOS/Android)
+    - Booking Confirmation Screen (iOS/Android)
+    - Payment Screen (iOS/Android)
+    - Push Notification Setup
+  - UI Foundation
+    - User Flow Diagram
+    - Wireframes/UI Mockups(iOS/Android)
+  - Testing
+    - Unit Testing
+    - Integration Testing
+    - UAT (iOS/Android) 
+- Backend
+  - Core Services
+    - User Authentication System
+    - Payment Processing Integration
+    - Parking Spot Availability Engine
+    - Booking/Reservation Logic
+  - Payments
+   - Payment Processing Integration
+  - API
+    - Database Schema
+  - Testing
+    - Unit Testing
+    - Integration Testing          
+- Deployment
+  - Release Prep
+    - App Store Submission (iOS)
+    - Play Store Submission (Andriod)
+    - Web Hosting/Server Setup
+  - Launch
+    - Launch Prep  

@@ -330,3 +330,5 @@ explanation
 Refusal to be professional and put work first can cause a delay in product development. 
 ## Risk Register 
 <img width="932" height="301" alt="Risk Register Image" src="https://github.com/user-attachments/assets/aa82c99a-9d8e-4163-b7df-6a4e00ae1972" />
+## Communication Plan
+<img width="605" height="242" alt="Communication Management Plan Image" src="https://github.com/user-attachments/assets/dfe951d8-8056-40d7-821e-150b28ad7084" />

@@ -293,7 +293,23 @@ Postcondition: User is returned to the login screen; session is closed
 # Risks section
 ## Technical Risks 
 ### 1. Real-time accuracy
-This is due to...
+Real-time accuracy is a difficult problem: if the app shows that a spot is available, when it is actually taken, the trust that the user has in our product will erode fast. Maintaining occupancy data up to date is dependent on sensors, lot operator feeds, (other machines / tools), all of which can either lag or fail at any given point in time. 
+### 2. Supporting both mobile (iOS and Android) and web application
+
+### 3. 
+### 4. 
 ## Schedule Risks 
-## Financial Risks 
+### 1. 
+### 2. 
+### 3. 
+### 4. 
+## Financial Risks
+### 1. 
+### 2. 
+### 3. 
+### 4. 
 ## People Risks 
+### 1. 
+### 2. 
+### 3. 
+### 4. 

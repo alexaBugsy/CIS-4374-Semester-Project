@@ -328,3 +328,5 @@ explanation
 " "such as product, engineering, marketing, and lot operators who all want different priorities, can cause rework and friction. 
 ### 4. Team mates bickering 
 Refusal to be professional and put work first can cause a delay in product development. 
+## Risk Register 
+

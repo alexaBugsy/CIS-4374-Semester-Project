@@ -292,6 +292,8 @@ Postcondition: User is returned to the login screen; session is closed
     - Launch Prep  
 # Risks section
 ## Technical Risks 
+### 1. Real-time accuracy
+This is due to...
 ## Schedule Risks 
 ## Financial Risks 
 ## People Risks 

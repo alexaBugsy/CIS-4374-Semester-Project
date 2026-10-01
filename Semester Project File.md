@@ -1,3 +1,5 @@
+<img width="932" height="301" alt="Risk Register Image" src="https://github.com/user-attachments/assets/b6e2f4ca-aad3-40d0-9edf-2f05bd76a0cc" />
+<img width="932" height="301" alt="Risk Register Image" src="https://github.com/user-attachments/assets/aa82c99a-9d8e-4163-b7df-6a4e00ae1972" />
 # 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  

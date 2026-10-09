@@ -333,4 +333,6 @@ Refusal to be professional and put work first can cause a delay in product devel
 ## Communication Plan
 <img width="605" height="242" alt="Communication Management Plan Image" src="https://github.com/user-attachments/assets/dfe951d8-8056-40d7-821e-150b28ad7084" />  
 
+# Roles & Resources
+# Resource & Cost Plan
 # RACI Matrix

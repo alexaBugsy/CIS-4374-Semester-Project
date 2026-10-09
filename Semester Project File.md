@@ -335,7 +335,23 @@ Refusal to be professional and put work first can cause a delay in product devel
 
 # Resource & Cost Management 
 ## Roles & Resources
+### Mobile Application Team 
 <img width="396" height="175" alt="Screenshot 2026-10-08 212339" src="https://github.com/user-attachments/assets/db0ffe43-7939-4995-9235-557a02efe021" />
+
+### Web Application Team 
+<img width="387" height="172" alt="Screenshot 2026-10-08 215150" src="https://github.com/user-attachments/assets/86dd1008-ede8-46fc-9843-145174a821fc" />
+
+### Backend / API Team 
+<img width="451" height="175" alt="Screenshot 2026-10-08 215243" src="https://github.com/user-attachments/assets/ad77737b-7233-488f-b219-233d21cdf29b" />
+
+### Mapping and Location Services Team 
+<img width="485" height="176" alt="Screenshot 2026-10-08 215341" src="https://github.com/user-attachments/assets/80e620ec-a2a4-4b83-9387-6a4f13611fb1" />
+
+### Payment Integration Team 
+<img width="455" height="172" alt="Screenshot 2026-10-08 215445" src="https://github.com/user-attachments/assets/a4761a80-925a-4eef-a157-d51e2a432d49" />
+
+### Quality Assurance Team 
+<img width="397" height="177" alt="Screenshot 2026-10-08 215527" src="https://github.com/user-attachments/assets/1272ee31-c4db-4557-8b9f-4f9f40b4948e" />
 
 ## Resource & Cost Plan
 ### Bottom-up Cost Plan

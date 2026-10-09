@@ -337,6 +337,7 @@ Refusal to be professional and put work first can cause a delay in product devel
 ## Roles & Resources
 <img width="396" height="175" alt="Screenshot 2026-10-08 212339" src="https://github.com/user-attachments/assets/db0ffe43-7939-4995-9235-557a02efe021" />
 
-
 ## Resource & Cost Plan
+### Bottom-up Cost Plan
+### Budgeted Cash Flow
 ## RACI Matrix

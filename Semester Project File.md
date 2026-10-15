@@ -1,6 +1,6 @@
 <div align="center">
 <br><br> 
-  [Project Tile]
+# Project Title 
 </div>
 # Table of Contents 
 

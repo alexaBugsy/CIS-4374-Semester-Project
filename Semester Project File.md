@@ -12,9 +12,16 @@
 ###       2.2.1 Vision Statement 
 ###       2.2.2 Scope 
 ### 3. Software Requirements Specification (SRS)
-###    
-### 
-### 
+###   3.1 Overall Description
+###   3.2 Functional Requirements 
+###   3.3 Non-Functional Requirements 
+###   3.4 Use Cases 
+### 4. Smart Parking Platform Work Breakdown Structure 
+### 5. Risks Section
+###    5.1 Technical-Related Risks 
+###    5.2 Schedule-Related Risks 
+###    5.3 Financial-Related Risks 
+###    5.4 People-Related Risks
 ---
 # 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 

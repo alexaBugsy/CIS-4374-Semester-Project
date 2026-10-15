@@ -317,7 +317,7 @@ Postcondition: User is returned to the login screen; session is closed
     - Launch Prep  
 # 5. Risks section
 ## 5.1. Risks Divided by Types
-## 5.1.1 Technical-Related Risks 
+## 5.1.1. Technical-Related Risks 
 ### 1. Real-time accuracy
 Real-time accuracy is a difficult problem: if the app shows that a spot is available, when it is actually taken, the trust that the user has in our product will erode fast. Maintaining occupancy data up to date is dependent on sensors, lot operator feeds, (other machines / tools), all of which can either lag or fail at any given point in time. 
 ### 2. Supporting both mobile (iOS and Android) and web application
@@ -354,9 +354,9 @@ explanation
 " "such as product, engineering, marketing, and lot operators who all want different priorities, can cause rework and friction. 
 ### *4. Team mates bickering*
 Refusal to be professional and put work first can cause a delay in product development. 
-## Risk Register 
+## 5.2. Risk Register 
 <img width="932" height="301" alt="Risk Register Image" src="https://github.com/user-attachments/assets/aa82c99a-9d8e-4163-b7df-6a4e00ae1972" />
-## Communication Plan
+## 5.3. Communication Plan  
 <img width="605" height="242" alt="Communication Management Plan Image" src="https://github.com/user-attachments/assets/dfe951d8-8056-40d7-821e-150b28ad7084" />  
 
 # Resource & Cost Management 

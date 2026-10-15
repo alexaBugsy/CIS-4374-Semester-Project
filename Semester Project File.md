@@ -316,7 +316,8 @@ Postcondition: User is returned to the login screen; session is closed
   - Launch
     - Launch Prep  
 # 5. Risks section
-## 5.1. Technical-Related Risks 
+## 5.1. Risks Divided by Types
+## 5.1.1 Technical-Related Risks 
 ### 1. Real-time accuracy
 Real-time accuracy is a difficult problem: if the app shows that a spot is available, when it is actually taken, the trust that the user has in our product will erode fast. Maintaining occupancy data up to date is dependent on sensors, lot operator feeds, (other machines / tools), all of which can either lag or fail at any given point in time. 
 ### 2. Supporting both mobile (iOS and Android) and web application
@@ -325,7 +326,7 @@ Supporting both mobile (iOS and Android) and the web version of the application 
 A breach of payment or movement data would be severe. 
 ### 4. Dependence on third-party integrations 
 The dependence on third-party integrations such as maps, payment gateways, (etc...) means that outages or changed terms our outside of our control, and have the power to break core features of the app. 
-## 5.2. Schedule-Related Risks 
+## 5.1.2. Schedule-Related Risks 
 ### 1. Scope creep 
 Features like (add), are easy to add, and hard to cut. Cutting out features means we run the risk of having a dissatisfied user, especially if said feature cut, was one they really liked.  
 ### 2. Integration with parking operators / city systems
@@ -334,7 +335,7 @@ Integration with parking operators / city systems can stall for months on contra
 Applications that require location permissions and payments, can run have their launch dates be pushed back unexpectedly. 
 ### 4. Underestimating testing time
 Real-world conditions like poor GPS in garages and spotty connectivity are hard to simulate and tend to surface late. 
-## 5.3. Financial-Related Risks
+## 5.1.3. Financial-Related Risks
 ### 1. Customer acquisition costs run high before network effects kick in
 Since need both drivers and lot supply, customer acquisitions costs can run high before network effects kick in. 
 ### 2. Margins are thin
@@ -343,7 +344,7 @@ This is because parking transaction fees are small and payment processing, opera
 Data privacy rules, accessibility requirements (ADA/WCAG), and local parking, tax, and fee regulations vary by city and state, so legal reviews, audits, and required changes add costs that are hard to budget upfront.
 ### 4. Cash flow and runway 
 Costs like development, cloud hosting, insurance, and ...
-## 5.4. People-Related Risks 
+## 5.1.4. People-Related Risks 
 ### 1. Key-person dependency 
 Lead mobile developer or backend architect leaving -> take their institutional knowledge with them. 
 explanation 

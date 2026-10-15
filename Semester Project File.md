@@ -1,7 +1,4 @@
-<div align="center">
-<br><br> 
-# Project Title 
-</div>
+# Project Title Page 
 # Table of Contents 
 
 

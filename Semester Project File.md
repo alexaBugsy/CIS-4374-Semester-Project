@@ -327,32 +327,32 @@ A breach of payment or movement data would be severe.
 ### 4. Dependence on third-party integrations 
 The dependence on third-party integrations such as maps, payment gateways, (etc...) means that outages or changed terms our outside of our control, and have the power to break core features of the app. 
 ## 5.1.2. Schedule-Related Risks 
-### 1. Scope creep 
+### *1. Scope creep* 
 Features like (add), are easy to add, and hard to cut. Cutting out features means we run the risk of having a dissatisfied user, especially if said feature cut, was one they really liked.  
-### 2. Integration with parking operators / city systems
+### *2. Integration with parking operators / city systems*
 Integration with parking operators / city systems can stall for months on contracts, API access, and data-sharing agreements, all of these delays sit outside of the dev team's control. 
-### 3. App store review cycles and rejections
+### *3. App store review cycles and rejections*
 Applications that require location permissions and payments, can run have their launch dates be pushed back unexpectedly. 
-### 4. Underestimating testing time
+### *4. Underestimating testing time*
 Real-world conditions like poor GPS in garages and spotty connectivity are hard to simulate and tend to surface late. 
 ## 5.1.3. Financial-Related Risks
-### 1. Customer acquisition costs run high before network effects kick in
+### *1. Customer acquisition costs run high before network effects kick in*
 Since need both drivers and lot supply, customer acquisitions costs can run high before network effects kick in. 
-### 2. Margins are thin
+### *2. Margins are thin*
 This is because parking transaction fees are small and payment processing, operator revenue shares, and support costs routinely exceed estimates once you account for two platforms, a backend, hardware or sensor integration, as well as ongoing OS and API updates. Revenue is also vulnerable to larger competitors. 
-### 3. Regulatory and compliance costs 
+### *3. Regulatory and compliance costs*
 Data privacy rules, accessibility requirements (ADA/WCAG), and local parking, tax, and fee regulations vary by city and state, so legal reviews, audits, and required changes add costs that are hard to budget upfront.
-### 4. Cash flow and runway 
+### *4. Cash flow and runway*
 Costs like development, cloud hosting, insurance, and ...
 ## 5.1.4. People-Related Risks 
-### 1. Key-person dependency 
+### *1. Key-person dependency*
 Lead mobile developer or backend architect leaving -> take their institutional knowledge with them. 
 explanation 
-### 2. Skill gaps 
+### *2. Skill gaps*
 explanation 
-### 3. Misaligned stakeholders 
+### *3. Misaligned stakeholders*
 " "such as product, engineering, marketing, and lot operators who all want different priorities, can cause rework and friction. 
-### 4. Team mates bickering 
+### *4. Team mates bickering*
 Refusal to be professional and put work first can cause a delay in product development. 
 ## Risk Register 
 <img width="932" height="301" alt="Risk Register Image" src="https://github.com/user-attachments/assets/aa82c99a-9d8e-4163-b7df-6a4e00ae1972" />

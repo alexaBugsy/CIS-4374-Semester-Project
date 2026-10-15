@@ -1,5 +1,7 @@
-# Title Page Stuff 
-
+<div align="center">
+<br><br> 
+  [Project Tile]
+</div>
 # Table of Contents 
 
 

@@ -8,6 +8,7 @@
     2.1.2 Business Opportunity
    
    
+   
 # 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  

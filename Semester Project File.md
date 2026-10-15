@@ -1,7 +1,13 @@
 # Project Title Page 
 # Table of Contents 
-
-
+1. Research ... 
+  1.1 Table that displays current competition
+2. Vision
+  2.1 Business Requirements
+    2.1.1 Background/Context
+    2.1.2 Business Opportunity
+   
+   
 # 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  

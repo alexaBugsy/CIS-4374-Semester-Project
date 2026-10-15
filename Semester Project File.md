@@ -1,14 +1,21 @@
 # Project Title Page 
+--- 
 # Table of Contents 
 ### 1. Research ... 
-###  1.1 Table that displays current competition
+###    1.1 Table that displays current competition
 ### 2. Vision
-###  2.1 Business Requirements
-###    2.1.1 Background/Context
-###    2.1.2 Business Opportunity
-   
-   
-   
+###    2.1 Business Requirements
+###       2.1.1 Background/Context
+###       2.1.2 Business Opportunity
+###       2.1.3 Business Objective 
+###    2.2 Vision of the Solution
+###       2.2.1 Vision Statement 
+###       2.2.2 Scope 
+### 3. Software Requirements Specification (SRS)
+###    
+### 
+### 
+---
 # 1. Research 
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  
@@ -47,7 +54,7 @@ Project: Smart Parking Platform
 Version: 1.0  
 Date: 09.10.2026
 
-## 3.2 Overall Description  
+## 3.1 Overall Description  
 - Users: Driver and Garage Operator
 - System Environment: Web-based / mobile application
 - Constraints: 
@@ -62,7 +69,7 @@ Date: 09.10.2026
   - Application has internet 
   - Internet access 
 
-## 3.3 Functional Requirements
+## 3.2 Functional Requirements
 - FR1: The system shall allow user registration and authentication with email or phone number  
 - FR2: The system shall allow the driver to see an interactive map displaying available parking locations 
 - FR3: The system shall allow the driver reserve a parking spot 
@@ -73,7 +80,7 @@ Date: 09.10.2026
 - FR8: The system shall allow the parking operator to access occupancy reporting and analytics *(DOUBLE CHECK IF FOR BOTH OR JUST PARKING OPERATOR)*
 - FR9: The system shall allow integration with external mapping/navigation services *(SEE IF WORD DIFFERENT / OR IN THIS SECTION SINCE NOT SURE)*
 
-## 3.4 Non-Functional Requirements
+## 3.3 Non-Functional Requirements
 - NFR1: The system shall load search results within 2-3 seconds of a query 
 - NFR2: The system shall support concurrent access by at least 5,000 simultaneous users without degraded response time 
 - NFR3: The system shall have all payment data encrypted and processed in compliance with PCI-DSS standards
@@ -82,7 +89,7 @@ Date: 09.10.2026
 - NFR6: The system shall provide 99.99% uptime, with the exclusion of scheduled maintenance   
 - NFR7: The system shall not lose reservation data in the event of a system failure (data persistence/backup) 
 
-## 3.5 Use Cases 
+## 3.4 Use Cases 
 *Use Case 1 | both*  
 Title: Register an Account
 Actor: Driver   

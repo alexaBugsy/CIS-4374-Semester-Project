@@ -397,3 +397,11 @@ Refusal to be professional and put work first can cause a delay in product devel
 ### 6.2.1. Bottom-up Cost Plan
 ### 6.2.2. Budgeted Cash Flow
 ## 6.3. RACI Matrix
+
+
+# Closure Report Draft 
+## Executive Summary 
+## Achievements and Shortfalls 
+## Lessons Learned 
+## Recommendations for Future Projects 
+

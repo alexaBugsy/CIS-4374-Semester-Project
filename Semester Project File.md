@@ -399,7 +399,7 @@ Refusal to be professional and put work first can cause a delay in product devel
 ## 6.3. RACI Matrix
 
 
-# Closure Report Draft 
+# Internal Closure Report 
 ### **Executive Summary:** 
 This project focused on developing a parking reservation app, available on mobile and web, that lets users find and reserve parking spots in advance. The goal was to reduce the ... and stress of searching for parking while giving operators a more optimized method for managing availability. The team defined a clear scope, a realistic timeline, and a cost plan covering design, development, and testing. Overall, the project showed that careful planning and steady monitoring can deliver a practical, feature-rich product. 
 ### **Problem or Need:**

@@ -436,9 +436,20 @@ It is crucial that future projects start off strong with a clearly documented sc
 [] Locate + Reserve (aka book instantly) --> the ability to compare options (browse locations, prices and details in one place --> makes experience more seamless)
 [] Pay (multiple methods) --> ability to compare prices and see which is best for Driver 
 ~~[] Multiple payment options 
+[] Type of Payment options: 
+~~[] Hourly 
+~~[] Daily 
+~~[] Monthly 
 [] We = middleman --> faster and efficient for both parties because they do not have to interact w/ eachother to get it done
 [] available on web, App Store and Google Play
 [] Must be connected to location / map services or integration or API, so that it can use Driver's location to make the process faster + + frictionless --> ex) avoids user having to input stuff like what state they are in / + location within said state 
+[] Alerts / reminders
+[] Digital validation: scan or enter validation codes from local business directly in the app 
+[] Free sign-up
+[] Do not need an account to find parking near you/view listings
+[] Messages can be sent via Driver and Operator (needed, in case any issues come up --> most efficient way to resolve that) 
+[] rebook in seconds
+[] Edit reservations on the go 
 [] Locations we cover / cater to: 
 ~~[] Events and games
 ~~[] Airports 
@@ -448,9 +459,11 @@ It is crucial that future projects start off strong with a clearly documented sc
 ~~[] Monthly 
 ~~[] Private garagaes 
 ### *Operator* 
-[] Clear inventory insights and reporting
+[] Centralized & clear inventory insights + reporting
 [] History 
-[] Types of operators we cover/cater towards:  
+[] Receipts 
+[] simplify how " " manages parking --> helps handle vehicles and users, track expenses, and pull detailed monthly reports from one easy-to-use portal --> manage all vehicles and users from one account, avoiding multiple logins and manual processes --> this keeps costs under control --> get monthly statements and detailed reporting to track spending and spot savings --> easy management and control for " " --> integrates seamlessly and also manages parking offering effortlessly
+[] Types of Operators we cover/cater towards:  
 ~~[] Airport ""
 ~~[] Event Partnerships 
 ~~[] Property Managers 
@@ -462,10 +475,20 @@ It is crucial that future projects start off strong with a clearly documented sc
 [] Cost 
 ~~[] Pre-book Pass --> *Space is guarateed at the price you paid or money back*
 [] Flexible --> if have change of plans, can modify or cancel *most* reservations right up to start time 
+[] Can park multiple cars by selecting 'New Session'
+[] Can add and delete x payment card/s 
+[] Can add another license plate number to their account 
+[] Types of Drivers we cover/cater towards: 
+~~[] 
 ### What makes us stand out 
 *Our extras, what set us apart*
 ### *General*
 [] Dynamic pricing 
+[] Available in all 50 states 
+[] save favorite spot 
+[] access parking pass (customers of other apps have left reviews complianing that was not provided for them, that would cause issues when trying to entry as well as annoyance)
+[] Height clearance, EV charging, accessible spaces, and oversized-vehicle filters --> (prevents as many problems as possible)
+[]
 ### *Operator*
 []
 ### *Driver*

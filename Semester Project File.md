@@ -423,3 +423,33 @@ There was some struggles regarding timing an resource allocation. A few tasks to
 The project made it evident how important it is to define scope and requirements clearly from the start, since early clarity made later planning and decision-making overall smoother. The importance of setting realistic time and resource estimates was also made evident, given that tasks that were estimated incorrectly created pressure on the rest of the schedule. Being more thorough when it comes to identifying and reviewing risks is also undoubtedly necessary, having done so efficiently from the start would have given the team more time to plan responses instead of reacting to problems as they came up. Consistent communication and regular progress check-ins helped keep everyone aligned, and the team would continue that practice in the future projects. Finally, keeping documentation current and tracking actual performance  against the baseline throughout, rather than catching up later, would improve accuracy and reduce rework on similar projects moving forward. 
 ## Recommendations for Future Projects 
 It is crucial that future projects start off strong with a clearly documented scope and a stakeholder review so requirements are agreed on before detailed planning starts. Time and const restraints should be built from past project data or expert input and include a contingency buffer, which should help absorb delays without disrupting later phases. Risk management should be treated as ongoing rather than a one-time exercise, with the risk registrar reviewed at regular intervals and owners assigned to each response plan. Progress should be tracked against the baseline on a set schedule, using simple metrics such as planned versus actual dates and spending, so variances can be caught early. Regular check-ins and a shared place for documentation should continue, since they kept the team aligned and made updates easier to follow. Finally, the team should hold a short review at the end of each major phase, not just at project close, so lessons learned can be applied while the project is still underway. 
+
+# Feature Checklist 
+## Key 
+[] = not implemented yet 
+[x] = has been implemented 
+
+## Features
+### Basic Must Haves 
+### *General*
+*This simply due to fact that all other companies offer it, so need*
+[] Locate + Reserve (aka book instantly) --> the ability to compare options (browse locations, prices and details in one place --> makes experience more seamless)
+[] Pay (multiple methods) --> ability to compare prices and see which is best for Driver 
+~~[] Multiple payment options 
+[] We = middleman --> faster and efficient for both parties because they do not have to interact w/ eachother to get it done
+[] available on App Store and Google Play 
+### *Operator*
+[] Clear inventory insights and reporting
+[] History 
+### *Driver*
+[] Cost 
+~~[] Pre-book Pass --> *Space is guarateed at the price you paid or money back*
+[] Flexible --> if have change of plans, can modify or cancel *most* reservations right up to start time 
+### What makes us stand out 
+*Our extras, what set us apart*
+### *General*
+[] Dynamic pricing 
+### *Operator*
+[]
+### *Driver*
+[]

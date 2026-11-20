@@ -40,7 +40,7 @@
 ## 1.1 Table with Data Regarding Current Competition 
 In the following table, I organized the current U.S. competitors, and based off various factors, determined whether they were direct or indirect competition.  
 
-| Competitors | Competitor Type |Locate | Reserve | Pay | Pricing/Fee | Rating Average Apple Store | Rating Average Google Store | Number of Ratings Apple Store | Number of Ratings Google Store | Number of Users |   
+| Competitors | Competitor Type |Locate | Reserve | Pay | Pricing/Fee | Rating Average App Store | Rating Average Google Play | Number of Ratings App Store | Number of Ratings Google Play | Number of Users |   
 |---|---|---|---|---|---|---|---|---|---|---|
 | SpotHero | direct | yes | yes | yes | ~15-25% commission + service fee| 4.9/5 | 4.8/5 | 414,000 | 20,000 | not publicly disclosed | 
 | Parkmobile | indirect | yes | yes | yes | ~$0.25-$0.50 per transaction| 4.8/5 | 4.3/5 | 1,400,000 | 88,000 | not publicly disclosed (largest US zone coverage)|  

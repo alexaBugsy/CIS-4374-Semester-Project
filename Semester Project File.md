@@ -437,10 +437,27 @@ It is crucial that future projects start off strong with a clearly documented sc
 [] Pay (multiple methods) --> ability to compare prices and see which is best for Driver 
 ~~[] Multiple payment options 
 [] We = middleman --> faster and efficient for both parties because they do not have to interact w/ eachother to get it done
-[] available on App Store and Google Play 
-### *Operator*
+[] available on web, App Store and Google Play
+[] Must be connected to location / map services or integration or API, so that it can use Driver's location to make the process faster + + frictionless --> ex) avoids user having to input stuff like what state they are in / + location within said state 
+[] Locations we cover / cater to: 
+~~[] Events and games
+~~[] Airports 
+~~[] Travel and hotels 
+~~[] Nights and weekends 
+~~[] Daily and commuting 
+~~[] Monthly 
+~~[] Private garagaes 
+### *Operator* 
 [] Clear inventory insights and reporting
 [] History 
+[] Types of operators we cover/cater towards:  
+~~[] Airport ""
+~~[] Event Partnerships 
+~~[] Property Managers 
+~~[] Rent my parking space (normal everyday people)
+~~[] Garage 
+~~[] Big event to run 
+~~[] Large fleet to manage 
 ### *Driver*
 [] Cost 
 ~~[] Pre-book Pass --> *Space is guarateed at the price you paid or money back*

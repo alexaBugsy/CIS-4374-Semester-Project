@@ -433,9 +433,13 @@ It is crucial that future projects start off strong with a clearly documented sc
 ### Basic Must Haves 
 ### *General*
 *This simply due to fact that all other companies offer it, so need*
+[] User registration and authentification -> PM file
+[] Real-time parking space availability -> PM file
+[] Interactive map displaying available parking locations -> PM file
+[] History and receipts -> PM file
 [] Locate + Reserve (aka book instantly) --> the ability to compare options (browse locations, prices and details in one place --> makes experience more seamless)
-[] Pay (multiple methods) --> ability to compare prices and see which is best for Driver 
-~~[] Multiple payment options 
+[] Multiple payment options --> ability to compare prices and see which is best for Driver 
+~~[] Apple Pay / Google Pay and Wallet passes so the QR code is on the lock screen --> exact pass needed at entrance can be added on wallet to reduce friction 
 [] Type of Payment options: 
 ~~[] Hourly 
 ~~[] Daily 
@@ -459,7 +463,8 @@ It is crucial that future projects start off strong with a clearly documented sc
 ~~[] Monthly 
 ~~[] Private garagaes 
 ### *Operator* 
-[] Centralized & clear inventory insights + reporting
+[] Administrative dashboards -> PM file 
+[] Occupancy reporting and analytics -> PM file
 [] History 
 [] Receipts 
 [] simplify how " " manages parking --> helps handle vehicles and users, track expenses, and pull detailed monthly reports from one easy-to-use portal --> manage all vehicles and users from one account, avoiding multiple logins and manual processes --> this keeps costs under control --> get monthly statements and detailed reporting to track spending and spot savings --> easy management and control for " " --> integrates seamlessly and also manages parking offering effortlessly
@@ -483,13 +488,23 @@ It is crucial that future projects start off strong with a clearly documented sc
 ### What makes us stand out 
 *Our extras, what set us apart*
 ### *General*
-[] Dynamic pricing 
+[] Dynamic pricing (adjusts hourly, or daily parking rates in real time,or on a schedule, based on occupancy, demand, time of day, and nearby events)
 [] Available in all 50 states 
 [] save favorite spot 
 [] access parking pass (customers of other apps have left reviews complianing that was not provided for them, that would cause issues when trying to entry as well as annoyance)
-[] Height clearance, EV charging, accessible spaces, and oversized-vehicle filters --> (prevents as many problems as possible)
-[]
+[] vehicle filters:
+~~[] Height clearance
+~~[] EV charging
+~~[] accessible spaces
+~~[] oversized vehicle-filters 
+[] Price-drop alerts "book later and save" --> nudges when prices dynamically fall 
+[] Total cost shown upfront (fees and taxes included, no surprise at checkout)
+[] Safety score --> verified reviews tied to real sessions, with ratings for safety, lighting, etc --> the safer, the more expensive 
+[] Ticket and mistake protection --> if the app gives wrong info and the driver gets towed or fined, company covers it
+[] A flat-rate pass --> 1 month fee for partner lot or zones, similar to gym membership, would appeal to commuters and downtown workers who are tired of booking daily 
 ### *Operator*
-[]
+[] demand forecast and pricing sugguestions ("raise event-night rates by x%") 
+[] Automatic payouts 
+[] No-show/overstay alerts
 ### *Driver*
 []
